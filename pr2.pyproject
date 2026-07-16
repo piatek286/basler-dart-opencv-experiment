@@ -1,0 +1,10 @@
+{
+    "files": [
+        "widget.py",
+        "form.ui",
+        "filters.py",
+        "DisplayAnalizeBox.py",
+        "PlcConnect.py",
+        "basler.py"
+    ]
+}

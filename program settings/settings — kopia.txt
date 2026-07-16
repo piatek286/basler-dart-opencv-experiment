@@ -1,0 +1,2 @@
+C:/Users/m.piatek/Documents/Qt/Kamera/Lump_Nec_dziury_basler/pr2_watki_procesy/recipes
+C:/Users/m.piatek/Documents/Qt/Kamera/Lump_Nec_dziury_basler/pr2_watki_procesy/recipes/1.txt
